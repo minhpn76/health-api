@@ -1,0 +1,5 @@
+"fastapi[all]"
+"python-jose[cryptography]"
+"passlib[bcrypt]"
+"autopep8"
+"fastapi-pagination"
